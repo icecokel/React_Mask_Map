@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-naver-maps": "0.0.13",
     "react-scripts": "3.4.1"
   },
   "scripts": {
